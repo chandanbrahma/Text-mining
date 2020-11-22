@@ -8,7 +8,7 @@
 
  
 ##importing the necessery libraries
-import requests   
+import requests  
 from bs4 import BeautifulSoup as bs 
 import re 
 import nltk
