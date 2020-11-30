@@ -1,6 +1,6 @@
 
 
-## our assignment is to extract movie reviews for any movie from IMDB and perform sentimental analysis
+## our  assignment is to extract movie reviews for any movie from IMDB and perform sentimental analysis
 ##I am extracting one of my all time favorite movie The dark night(2008) which is the second part of the batman series
 ## it has a IMDB rating of 9/10 and also famous for the iconic character of Joker.
 ## So let Scarp the reviews for the movie from IMDB and try to find some sentimental analysis.
