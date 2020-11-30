@@ -1,6 +1,6 @@
 
 
-##our assignment is to choose one product from the Ecommerce website and put sentimental analysis based on the reviews it has got.
+##our  assignment is to choose one product from the Ecommerce website and put sentimental analysis based on the reviews it has got.
 ## i have bought a samsung galaxy M40 about six monthes earlier from Amazon, So lets get the reviews and also lets try to get the performance of the same.
 
 
