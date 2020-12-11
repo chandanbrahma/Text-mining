@@ -18,7 +18,7 @@ import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 
 
-# creating empty reviews list 
+# creating empty reviews list  
 darknight_reviews =[]
 
 
