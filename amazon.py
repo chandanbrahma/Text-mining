@@ -4,7 +4,7 @@
 ## i have bought a samsung galaxy M40 about six monthes earlier from Amazon, So lets get the reviews and also lets try to get the performance of the same.
 
 
-##importing the necessery libraries 
+##importing the necessery libraries  
 import requests    
 from bs4 import BeautifulSoup as bs 
 import re 
